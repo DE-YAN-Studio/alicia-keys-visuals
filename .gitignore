@@ -1,0 +1,12 @@
+#settings
+
+#TD ignore backups
+App/Backup/*
+App/alicia_keys_visuals.*.toe
+
+#ignore mac ini
+*.ini
+
+# Mac OS X cruft
+.DS_Store
+
