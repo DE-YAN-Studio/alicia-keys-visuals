@@ -24,7 +24,7 @@ The incoming spout signal (labeled as 'spout in resolume') is composited with a 
 
 </br>
 
-## Alicia Keys Visuls root level architecture
+## Alicia Keys Visuals root level architecture
 
 <img src="Docs/Images/root_level.PNG" alt="data"/>
 
